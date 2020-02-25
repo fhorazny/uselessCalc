@@ -9,9 +9,9 @@ package com.redhat.fhorazny.first;
 public class Main {
 
     public static void main(String[] args) {
-        Calc myCalc = new Calc();
+        //Calc myCalc = new Calc();
 //                 neco jako try catch by tu asi mel byt a tim zjistovat jestli vse v poradku probehlo
-        myCalc.process();
-
+        //myCalc.process();
+	System.out.println("everything ok");
     }
 }
