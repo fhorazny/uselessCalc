@@ -25,7 +25,7 @@
         <slf4j-api.version>1.7.25</slf4j-api.version>
         <slf4j-impl.version>1.7.25</slf4j-impl.version>
         <apache-logging-log4j.version>2.3</apache-logging-log4j.version>
-        <logback.version>1.2.3</logback.version>
+        <logback.version>1.2.13</logback.version>
     </properties>
 
     <dependencies>
